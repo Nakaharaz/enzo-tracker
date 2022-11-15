@@ -1,24 +1,23 @@
-# alura-tracker
+# Enzo Tracker!
+
+Seu site de otimização de tarefas😎
 
 ## Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compila e faz um hot-reload para desenvolvimento
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### compila e minifica para mandar para produção
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Arruma os arquivos
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
